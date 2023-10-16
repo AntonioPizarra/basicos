@@ -1,0 +1,6 @@
+ESTRUCTURA (TÍPICA) DE UNA WEB
+
+1- BARRA DE NAVEGACIÓN (NAVBAR)
+2- HERO SECTION (ES UN ESCAPARATE) imagen, visor, video
+3- SECCIONES INTERMEDIAS (introducción, quienes somos, testimonios, productos, contacto...)
+4- FOOTER: contacto, redes sociales, autor, barra(s) de navegación, política de privacidad
